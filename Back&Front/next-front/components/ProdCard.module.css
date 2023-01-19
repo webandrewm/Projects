@@ -1,0 +1,20 @@
+.cardLink {
+  text-decoration: none;
+}
+.cardLink:hover {
+  border: 1px black solid;
+  border-radius: 15px;
+  color: black;
+}
+.card {
+  text-align: center;
+  margin: 15px;
+  border-radius: 15px;
+  width: 300px;
+}
+.CardImage {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
