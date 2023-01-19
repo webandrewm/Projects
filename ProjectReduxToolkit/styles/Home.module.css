@@ -1,0 +1,229 @@
+.main {
+  margin-top: 30px;
+  width: 1000px;
+  height: 640px;
+  background-color: rgb(252, 247, 247);
+  border-radius: 15px;
+  border: 1px black solid;
+}
+
+.styleInfo {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 30px;
+  float: right;
+  width: 690px;
+  height: 640px;
+}
+
+.firstImage {
+  position: absolute;
+  margin-left: 5px;
+  margin-top: -25px;
+}
+.firstImageForm {
+  margin-top: -35px;
+  width: 310px;
+  height: 640px;
+}
+.fullCirc {
+  font-size: 15px;
+  padding: 15px;
+  margin-top: 30px;
+  position: relative;
+}
+
+.BsCircle {
+  position: relative;
+  font-size: 50px;
+  color: rgb(46, 46, 215);
+  border: 3px rgb(58, 6, 202) solid;
+  border-radius: 60px;
+}
+.BsCircle:hover {
+  color: rgb(54, 28, 159);
+}
+.BsCircles {
+  position: relative;
+  font-size: 50px;
+  color: rgb(54, 28, 159);
+  border: 3px rgb(58, 6, 202) solid;
+  border-radius: 60px;
+}
+.blockCirc {
+  display: inline-flex;
+  margin: 15px;
+}
+.textCirc {
+  font-size: 20px;
+  margin: 15px;
+}
+.textIN {
+  color: beige;
+  margin-top: 10px;
+  margin-left: 20px;
+  position: absolute;
+}
+.plan {
+  float: center;
+  width: 150px;
+  height: 120px;
+  border-radius: 15px;
+  border: 1px black solid;
+}
+.planS {
+  font-size: 15px;
+  text-align: center;
+  margin: 30px;
+  width: 150px;
+  height: 120px;
+  border-radius: 15px;
+  background-color: rgb(237, 237, 229);
+}
+.plansLine {
+  text-align: center;
+  margin-top: 50px;
+  display: inline-flex;
+}
+.switchDiv {
+  width: 500px;
+  margin: 10px;
+  display: inline-flex;
+}
+.switchDivText {
+  margin-bottom: 15px;
+  margin: 20px;
+}
+.plansLines {
+  text-align: center;
+  display: inline;
+}
+.planAddons {
+  text-align: left;
+  display: inline-flex;
+  margin: 30px;
+  height: 80px;
+  border-radius: 15px;
+  background-color: rgb(244, 244, 237);
+}
+.checkbox {
+  margin-left: 20px;
+  display: inline-block;
+}
+.changed {
+  text-align: center;
+  margin: 30px;
+  width: 150px;
+  height: 120px;
+  border-radius: 15px;
+  border: 1px lightblue solid;
+  background-color: rgb(253, 253, 252);
+}
+.backnext {
+  text-align: center;
+}
+.textService {
+  width: 300px;
+  margin-left: 15px;
+}
+.priceText {
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.styleHead {
+  text-align: center;
+}
+.styleSwitch {
+  width: 500px;
+  margin-left: 250px;
+  margin-right: auto;
+  display: inline-flex;
+}
+.switchPersonal {
+  margin-top: 12px;
+}
+.input {
+  font-size: 20px;
+  border-radius: 10px;
+  width: 250px;
+  height: 30px;
+}
+.lable {
+  margin-right: 5px;
+  font-size: 25px;
+}
+.labes {
+  margin-right: 5px;
+  font-size: 25px;
+}
+.onInput {
+  width: 450px;
+  height: 50px;
+  display: inline-flex;
+  margin: 30px;
+}
+.change {
+  margin-top: 1px;
+  text-decoration: underline;
+  color: black;
+  cursor: pointer;
+}
+.change:hover {
+  color: blue;
+}
+.planDiv {
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  height: 70px;
+  background-color: bisque;
+  border-radius: 15px;
+}
+.totalPrice {
+  font-size: 20px;
+  margin: 15px;
+  text-align: center;
+}
+.planFull {
+  margin: 1px;
+  text-align: center;
+}
+.allButton {
+  width: 120px;
+  height: 50px;
+  margin: 15px;
+  border-radius: 15px;
+}
+.allButton:hover {
+  background-color: rgb(195, 171, 142);
+}
+.planName {
+  font-size: 25px;
+}
+.styleInfos {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  float: right;
+  width: 690px;
+  height: 640px;
+  margin-top: 30px;
+}
+.planAddon {
+  display: inline-block;
+  border-radius: 15px;
+  text-align: center;
+  margin: 70px;
+  text-align: left;
+}
+.textThank {
+  text-align: center;
+}
+.firstImages {
+  position: absolute;
+  margin-left: 250px;
+  margin-top: -30px;
+}
+.errorData {
+  margin: 1px;
+}
