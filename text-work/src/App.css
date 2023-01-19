@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+.table {
+  font-size: 25px;
+  width: 1000px;
+  text-align: center;
+  margin: 15px;
+  padding: 10px;
+  margin-left: 10px;
+}
+.tableS {
+  margin: 1px;
+}
+.tableS:hover {
+  color: brown;
+}
+.eInfo {
+  font-size: 30px;
+}
+.pagin {
+  font-size: 20px;
+  display: inline-block;
+}
+.paginG {
+  font-size: 20px;
+  margin: 5px;
+  display: inline-block;
+}
+.addmenu {
+  width: 600px;
+  display: block;
+  margin: 15px;
+  margin-left: 10px;
+}
+.numbers {
+  font-size: 30px;
+}
+.numbers:hover {
+  color: brown;
+}
+.button {
+  margin: 15px auto;
+  margin-left: 20px;
+  height: 50px;
+  cursor: pointer;
+  background-color: rgb(107, 108, 108);
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
+.button:hover {
+  background-color: rgb(30, 111, 188);
+}
+.form {
+  margin: 5px auto;
+  margin-left: 20px;
+  width: 10%;
+  height: 30px;
+  font-size: 1.3rem;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+.line {
+  font-size: 30px;
+  margin-left: 15px;
+  border: black;
+}
+.tableElement {
+  margin-left: 10px;
+  padding: 10px;
+}
+.tableBody {
+  width: 1000px;
+}
+.fullDiv {
+  display: inline-block;
+}
