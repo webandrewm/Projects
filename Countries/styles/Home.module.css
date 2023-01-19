@@ -1,0 +1,161 @@
+.main {
+  width: auto;
+  height: auto;
+}
+.header {
+  text-align: center;
+  height: 60px;
+  margin-top: 0px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #2a639d;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.countrie {
+  font-size: 15px;
+}
+.card {
+  border: 2px rgb(255, 255, 255) solid;
+  text-align: center;
+  margin: 15px;
+  border-radius: 15px;
+  width: 300px;
+}
+.card:hover {
+  border: 2px bisque solid;
+  color: bisque;
+}
+.CardImage {
+  border: 15px;
+}
+
+.card > img {
+  border-radius: 10px;
+}
+.cardLink {
+  color: white;
+  margin: 0px;
+  text-decoration: none;
+}
+.singleImg {
+  margin: 50px;
+}
+.cardIn {
+  white-space: nowrap;
+  margin: 15px;
+}
+.cardInBlock {
+  margin-left: 50px;
+  margin-top: 20px;
+  display: inline-block;
+  white-space: normal;
+  vertical-align: top;
+}
+.imgInBlock {
+  padding-top: 5px;
+  margin-left: 60px;
+  display: inline-block;
+  white-space: normal;
+  vertical-align: top;
+}
+.cardButton {
+  color: #2a639d;
+  text-align: center;
+  height: 50px;
+  font-size: 27px;
+  margin-top: 40px;
+  margin-left: 130px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+}
+.cardButton:hover {
+  color: bisque;
+}
+.cardButton:hover .Icons {
+  color: bisque;
+}
+.Icons {
+  margin: auto;
+  font-size: 1.4rem;
+  margin-right: 10px;
+  color: #2a639d;
+}
+.Icons:hover {
+  color: bisque;
+}
+.cardBorderButt {
+  color: #2a639d;
+  margin: 5px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+}
+.cardBorderButt:hover {
+  color: bisque;
+}
+.borders {
+  width: 300px;
+  word-wrap: break-word;
+  display: inline-block;
+}
+.showMore {
+  margin: 15px;
+  display: inline-block;
+  color: #2a639d;
+  height: 50px;
+  font-size: 25px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+}
+.showMore:hover {
+  color: bisque;
+}
+.showCardsButton {
+  text-align: center;
+}
+.search {
+  display: inline-block;
+  margin: 15px;
+  width: 250px;
+  height: 30px;
+  background-color: white;
+  border-radius: 15px;
+}
+.searchInput {
+  color: #2a639d;
+  padding: 3px;
+  border: none;
+  margin: 2px;
+  font-size: 20px;
+  width: 200px;
+  height: 20px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+}
+.searchInput::placeholder {
+  color: #2a639d;
+}
+.searchIcon {
+  font-size: 20px;
+  color: #2a639d;
+}
+.dropAndSearch {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  white-space: nowrap;
+  margin: 15px;
+}
+.Dropdown {
+  margin: 15px;
+  display: inline-block;
+  text-align: right;
+}
