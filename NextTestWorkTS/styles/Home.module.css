@@ -1,0 +1,109 @@
+.CardImage {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+.cardLink {
+  margin: 5px;
+  text-decoration: none;
+  border: 1px rgb(197, 195, 195) solid;
+}
+.cardLink:hover {
+  border: 1px black solid;
+  color: black;
+}
+.card {
+  text-align: center;
+  margin: 3px;
+  width: 300px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.Loading {
+  text-align: center;
+}
+.Header {
+  text-align: center;
+  position: relative;
+}
+.buttonsLine {
+  height: 35px;
+  display: inline-flex;
+  background-color: rgb(191, 206, 221);
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.buttonIn {
+  border-radius: 15px;
+  background-color: rgb(82, 17, 139);
+  border: 0px;
+  color: white;
+}
+.buttonPluse {
+  font-size: 25px;
+  border: 0px;
+  background-color: rgb(191, 206, 221);
+}
+.buttonPluse:hover {
+  color: rgb(82, 17, 139);
+}
+.buttonMinus {
+  font-size: 25px;
+  margin: 2px;
+  border: 0px;
+  border-radius: 15px;
+  background-color: rgb(191, 206, 221);
+}
+.buttonMinus:hover {
+  color: rgb(82, 17, 139);
+}
+.prodCount {
+  font-size: 25px;
+  margin-top: 1px;
+}
+.prodInfo {
+  height: 130px;
+  margin: 3px;
+}
+.oneProdInfo {
+  margin: 2px;
+}
+.hitImage {
+  margin-bottom: 100px;
+  margin-left: -40px;
+}
+.personArea {
+  margin: 10px;
+  border-radius: 15px;
+  border: 0px;
+  color: white;
+  background-color: rgb(82, 17, 139);
+}
+.didntBuy {
+  text-align: center;
+}
+.makePurchase {
+  text-align: center;
+}
+.areaDiv {
+  margin-left: auto;
+  margin-right: auto;
+}
+.heartStyle {
+  color: rgb(156, 153, 153);
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-left: 255px;
+}
+
+.redHeart {
+  color: red;
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-left: 255px;
+}
