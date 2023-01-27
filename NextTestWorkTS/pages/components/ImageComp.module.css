@@ -1,0 +1,160 @@
+.divglobal {
+  width: 319px;
+  height: 437px;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+}
+.text25 {
+  left: 1px;
+  color: rgba(46, 46, 51, 1);
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.banner1 {
+  top: 60px;
+  left: -1px;
+  width: 308px;
+  height: 140px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.divimage34 {
+  top: 21px;
+  left: 168px;
+  width: 109px;
+  height: 68px;
+  padding: 0;
+  position: absolute;
+  flex-shrink: 1;
+  border-radius: 0px 0px 0px 0px;
+  justify-content: flex-start;
+}
+.text05 {
+  color: rgba(46, 46, 51, 1);
+  right: -3px;
+  bottom: -20px;
+  position: absolute;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.divimage1 {
+  top: 97px;
+  left: 189px;
+  width: 60px;
+  height: 20px;
+  display: flex;
+  flex-shrink: 1;
+}
+.banner2 {
+  top: 215px;
+  left: 0px;
+  width: 308px;
+  height: 140px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+
+.imagediv34 {
+  top: 22px;
+  left: 19px;
+  width: 118px;
+  height: 68px;
+  position: absolute;
+}
+.image451 {
+  top: 0px;
+  left: 38px;
+  position: absolute;
+}
+.text16 {
+  top: 5px;
+  left: -5px;
+  color: rgb(46, 46, 51);
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.text17 {
+  font-weight: 400;
+}
+.divimage41 {
+  top: 97px;
+  left: 19px;
+  width: 60px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+}
+
+.text22 {
+  top: -3px;
+  left: 12px;
+  position: absolute;
+  font-size: 11px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.image55 {
+  left: 1px;
+  position: absolute;
+  bottom: -5px;
+}
+.image29 {
+  right: 2px;
+  bottom: -5px;
+  position: absolute;
+}
+
+.image45 {
+  top: 32px;
+  left: 7px;
+  position: absolute;
+}
+.image25 {
+  top: -176px;
+  right: -137px;
+  opacity: 0.1;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 90px;
+}
+.image28 {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  border-color: rgba(245, 245, 247, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.image60 {
+  top: 1px;
+  right: 2px;
+  position: absolute;
+}
+.image251 {
+  top: -6px;
+  right: -21px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 90px;
+}
