@@ -1,0 +1,12 @@
+import React from 'react'
+
+const MainPage = () => {
+  return (
+    <div>
+        <h1>Привествую вас на нашем сайте</h1>
+        <p>Сдесь вы можете опубликовать любую статью. Сервис открыт для статей на любые темы.</p>
+    </div>
+  )
+}
+
+export default MainPage
