@@ -1,0 +1,12 @@
+.textDiv {
+  display: grid;
+  grid-template-rows: auto minmax(300px, auto) auto;
+}
+
+.textDiv > h1 {
+  text-align: center;
+}
+
+.textArea { 
+  border-radius: 10px;
+}
