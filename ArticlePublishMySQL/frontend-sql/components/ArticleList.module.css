@@ -1,0 +1,28 @@
+.artDiv {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: minmax(auto, auto);
+  gap: 2px;
+}
+
+.artDiv > div {
+  border: 0px;
+  border-radius: 10px;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+
+.artDiv > input {
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.oneArtModule {
+  cursor: pointer;
+  margin: 5px;
+  background-color: rgb(123, 123, 123);
+  color: white;
+}
+
