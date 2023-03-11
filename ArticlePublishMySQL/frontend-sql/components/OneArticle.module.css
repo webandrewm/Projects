@@ -1,0 +1,50 @@
+.mainDiv {
+  align-items: center;
+  justify-content: center;
+}
+
+.textDiv {
+  display: grid;
+  grid-template-columns: 5% minmax(300px, auto) 5%;
+}
+
+.textDiv > iframe {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  height: 50vw;
+  width: 75vw;
+  border-radius: 10px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  overflow: auto;
+}
+.textDiv > p {
+  font-size: 20px;
+  margin: 15px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  margin: 1px;
+  text-indent: 20px;
+  text-align: justify;
+  display: grid;
+  grid-template-columns: minmax(300px, auto);
+}
+.textDiv > h2 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  text-align: center;
+}
+.textDiv > p > img {
+  margin-left: auto;
+  margin-right: auto;
+  text-indent: 0px;
+  border-radius: 10px;
+  height: 50vw;
+  width: 75vw;
+}
+.textDiv > p > img:hover {
+  width: 100%;
+  height: 100%;
+}

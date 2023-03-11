@@ -1,0 +1,19 @@
+.mainDiv {
+  display: grid;
+  grid-template-columns: minmax(250px, auto);
+  gap: 5px;
+}
+.mainDiv > h1 {
+  text-align: center;
+}
+.mainDiv > button {
+  background-color: rgb(91, 54, 166);
+  color: white;
+  border-radius: 10px;
+  width: 90px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
