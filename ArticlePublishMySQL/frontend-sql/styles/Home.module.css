@@ -1,0 +1,16 @@
+.mainDiv > div {
+  justify-content: center;
+}
+
+.buttonDiv {
+  display: grid;
+  grid-template-columns: minmax(60px, 90px) minmax(60px, 90px) ;
+  gap: 5px;
+}
+
+.buttonDiv > button {
+  font-size: 10px;
+  height: 42px;
+  border-radius: 12px;
+  width: minmax(60px, 90px);
+}
